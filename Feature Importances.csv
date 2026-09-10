@@ -1,0 +1,24 @@
+Feature,Importance
+num__Overall Qual,0.34617233
+Kitchen__Kitchen Qual,0.23626721
+num__Garage Cars,0.13111798
+num__Gr Liv Area,0.07314386
+num__Year Built,0.05433064
+num__Total Bsmt SF,0.053070195
+Neighborhood__Neighborhood,0.025287207
+num__Year Remod/Add,0.02515451
+num__Lot Area,0.01811186
+cat__Bldg Type_1Fam,0.01021589
+cat__Bldg Type_Duplex,0.005803274
+cat__House Style_SLvl,0.003535192
+num__TotRms AbvGrd,0.0035045976
+cat__House Style_SFoyer,0.0031224862
+cat__House Style_1.5Fin,0.0029253059
+cat__Bldg Type_TwnhsE,0.0028649834
+cat__House Style_2.5Unf,0.0021845056
+cat__House Style_1Story,0.0019132602
+cat__House Style_2Story,0.0012747163
+cat__House Style_1.5Unf,0.0
+cat__Bldg Type_Twnhs,0.0
+cat__Bldg Type_2fmCon,0.0
+cat__House Style_2.5Fin,0.0
