@@ -4,7 +4,7 @@
 
 * Chosen Coulmns:
 * Lot Area (Rozmiar działki)
-Gr Liv Area (Rozmiar domu nad ziemią)
+* Gr Liv Area (Rozmiar domu nad ziemią)
 * Bldg Type (typ domu)
 * House Style (styl domu)
 * Overall Qual (Ogólna jakość)
