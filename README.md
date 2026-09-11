@@ -41,7 +41,7 @@ Gr Liv Area (Rozmiar domu nad ziemią)
 * Residual Plot: Visualizing model errors to diagnose heteroskedasticity and identify outlier predictions.
 * Feature Importance Chart: Highlighting the most impactful variables driving the model's decisions.
 * Error vs. Features Analysis: Custom charts comparing error KPIs across specific categories (e.g., Neighborhood, Garage Cars).
-* Interactive Play Axis: Animating the timeline (e.g., Year Built) to dynamically update all dashboard visuals and observe performance trends over time.
+* Interactive Play Axis: Animating the timeline (Year Built) to dynamically update all dashboard visuals and observe performance trends over time.
 
 <img width="1097" height="626" alt="image" src="https://github.com/user-attachments/assets/b1228a2e-36b1-467a-8ae7-971a7910e83b" />
 
